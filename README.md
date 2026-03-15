@@ -1,6 +1,3 @@
-**🎬 Movie Recommender System**
-
-A simple and interactive **Movie Recommendation System** built using **Python, Machine Learning, and Streamlit**.
 # 🎬 Movie Recommender System
 
 A simple and interactive **Movie Recommendation System** built using **Python, Machine Learning, and Streamlit**.
@@ -15,7 +12,7 @@ This project demonstrates how **content-based filtering** and **cosine similarit
 You can try the live web application here:
 
 **Live Demo:**
-[https://kartikgoel1020-movie-recommender.streamlit.app](https://kartikgoel1020-movie-recommenderappapp-nzy3ehbe3nhxsk3ryfpfvm.streamlit.app/)
+https://kartikgoel1020-movie-recommender.streamlit.app
 
 ---
 
@@ -134,6 +131,44 @@ Movie_Recommender
 ├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
 ```
+
+---
+
+# ▶️ Running the Project Locally
+
+If you want to run the project on your own system, follow these steps.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/KartikGoel1020/Movie_Recommender.git
+```
+
+---
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd Movie_Recommender
+```
+
+---
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 4. Run the Application
+
+```bash
+streamlit run app.py
+```
+
+The application will start and open in your browser.
 
 ---
 
